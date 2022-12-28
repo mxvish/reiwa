@@ -1,12 +1,18 @@
 # reiwa
 Alternative date command to display Gegnal year(only for Reiwa era).
 
+# Contents
+
+<a href="#usage">Usage</a><br>
+<a href="#difference-between-this-and-date-command">Difference between this and date command</a><br>
+<a href="#alias">Alias</a><br>
+
 # Usage
 ```sh
 sh reiwa.sh
 ```
 
-# Difference between date command
+# Difference between this and date command
 
 Here is an example.
 
