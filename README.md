@@ -11,15 +11,23 @@ sh reiwa.sh
 
 Here is an example.
 
-```sh
-$ date
-```
-Wed Dec 28 17:34:03 JST 2022
+- zsh
+  ```sh
+  $ date
+  ```
+  Output: `Wed Dec 28 17:34:03 JST 2022`
 
-```sh
-$ sh reiwa.sh
-```
-Wed Dec 28 17:34:01 JST 令和4年
+- bash
+  ```sh
+  $ date
+  ```
+  Output: `Wed Dec 28 5:34:03 PM JST 2022`
+
+- reiwa
+  ```sh
+  $ sh reiwa.sh
+  ```
+  Output: `Wed Dec 28 17:34:01 JST 令和4年`
 
 # Need alias?
 - Use this.
