@@ -1,5 +1,5 @@
 # reiwa
-Alternative date command to display Gegnal year using date command(only for Reiwa era).
+Alternative date command to display Gegnal year(only for Reiwa era).
 
 # Usage
 ```sh
