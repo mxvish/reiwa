@@ -1,5 +1,5 @@
 # reiwa
-Date command to display Gegnal year(only for Reiwa era).
+Shell script to display Gegnal year using date command(only for Reiwa era).
 
 
 # Usage
