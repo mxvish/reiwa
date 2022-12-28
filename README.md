@@ -5,7 +5,6 @@ Alternative date command to display Gegnal year(only for Reiwa era).
 
 <a href="#usage">Usage</a><br>
 <a href="#difference-between-this-and-date-command">Difference between this and date command</a><br>
-<a href="#alias">Alias</a><br>
 
 # Usage
 ```sh
@@ -33,10 +32,3 @@ Here is an example.
   $ sh reiwa.sh
   ```
   Output: `Wed Dec 28 17:34:01 JST 令和4年`
-
-# Alias
-  You can use the following code. You can use this permanently by adding this to a file such as `~/.bashrc` or `~/.zshrc`
-  
-  ```sh
-  alias reiwa="echo `date "+%a %h %d %T %Z"` "令和"$(bc <<< $(date +%Y)-2018)"年""
-  ```
