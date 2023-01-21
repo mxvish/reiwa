@@ -1,5 +1,5 @@
 # reiwa
-Alternative date command to display Gegnal year(only for Reiwa era).
+Alternative date command to display [Regnal year](https://en.wikipedia.org/wiki/Regnal_year)(only for Reiwa era).
 
 # Contents
 
