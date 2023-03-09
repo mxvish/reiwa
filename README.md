@@ -8,6 +8,12 @@ Alternative date command to display [Regnal year](https://en.wikipedia.org/wiki/
 <a href="#difference-between-this-and-date-command">Difference between this and date command</a><br>
 
 # Installation
+- Using wget
+```sh
+wget https://raw.githubusercontent.com/mxvish/reiwa/main/reiwa.sh
+```
+
+- Using git    
 ```sh
 git clone https://github.com/mxvish/reiwa.git
 mv reiwa/reiwa.sh .
