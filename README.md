@@ -3,9 +3,9 @@ Alternative date command to display [Regnal year](https://en.wikipedia.org/wiki/
 
 # Contents
 
-<a href="#installation">Installation</a><br>
-<a href="#usage">Usage</a><br>
-<a href="#difference-between-this-and-date-command">Difference between this and date command</a><br>
+- [Installation](#installation)
+- [Usage](#usage)
+- [Difference between this and date command](#difference-between-this-and-date-command)
 
 # Installation
 - Using wget
