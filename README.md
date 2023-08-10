@@ -3,9 +3,15 @@ Alternative date command to display [Regnal year](https://en.wikipedia.org/wiki/
 
 # Contents
 
+- [Usage without installation](#usage-without-installation)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Difference between this and date command](#difference-between-this-and-date-command)
+
+# Usage without installation
+```sh
+curl -s https://raw.githubusercontent.com/mxvish/reiwa/main/reiwa.sh | sh
+```
 
 # Installation
 - Using wget
