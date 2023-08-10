@@ -1,19 +1,19 @@
 # reiwa
 Alternative date command to display [Regnal year](https://en.wikipedia.org/wiki/Regnal_year)(only for Reiwa era).
 
-# Contents
+## Contents
 
 - [Usage without installation](#usage-without-installation)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Difference between this and date command](#difference-between-this-and-date-command)
 
-# Usage without installation
+## Usage without installation
 ```sh
 curl -s https://raw.githubusercontent.com/mxvish/reiwa/main/reiwa.sh | sh
 ```
 
-# Installation
+## Installation
 - Using wget
 ```sh
 wget https://raw.githubusercontent.com/mxvish/reiwa/main/reiwa.sh
@@ -25,12 +25,12 @@ git clone https://github.com/mxvish/reiwa.git
 mv reiwa/reiwa.sh .
 ```
 
-# Usage
+## Usage
 ```sh
 sh reiwa.sh
 ```
 
-# Difference between this and date command
+## Difference between this and date command
 
 Here is an example.
 
